@@ -447,7 +447,7 @@ _Whether it's failing at logging into accounts, resetting a password, or protect
 </p>
 <hr>
 
-<h1><p align=center>(ﾉ^ヮ^)ﾉ*:・ﾟ✧ COMPLETE! ✧ﾟ・:*╰(^ヮ^╰)</p></h1>
+<h1><p align=center> COMPLETE!</p></h1>
 
 <h2><p align=center>Next Demonstration:<br><a href="https://github.com/JTYKolesar/azure-network-protocols">Network Security Groups (NSGs) and Inspecting Network Protocols</a></p></h2>
 
